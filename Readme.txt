@@ -1,4 +1,7 @@
+
 # 🚮 Garbage Management System (GMS)
+
+A brief description of what this project does and who it's for
 
 A web-based system for smart management of garbage collection requests across Admin, Driver, and User portals.
 
@@ -64,7 +67,7 @@ Live URL: [https://managemygarbage.rf.gd/gms](https://managemygarbage.rf.gd/gms)
 > Add these in a `screenshots/` folder in your repo.
 
 - Admin Dashboard  
-  ![Admin](Admin-portal.png)
+  ![Admin](screenshots/admin-dashboard.png)
 
 - Driver Panel  
   ![Driver](screenshots/driver-dashboard.png)
