@@ -1,3 +1,96 @@
+# 🚮 Garbage Management System (GMS)
+
+A web-based system for smart management of garbage collection requests across Admin, Driver, and User portals.
+
+[![License](https://img.shields.io/github/license/yourusername/gms)](LICENSE)
+[![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue)]()
+[![Bootstrap](https://img.shields.io/badge/UI-Bootstrap%205-blueviolet)]()
+[![Status](https://img.shields.io/badge/project-live-success)](https://managemygarbage.rf.gd/gms/index.php)
+
+---
+
+## 🚦 System Roles & Features
+
+### 👨‍💼 Admin Portal
+
+- 📊 **Dashboard** — View system stats
+- 🚚 **Driver Management**
+  - Add / view / delete drivers
+- 📁 **Complaints**
+  - View user complaints
+  - Respond to complaints
+- 🗑️ **Driver Bin Responses**
+- 🔍 **Search** — Filter users and complaints
+- 📈 **Reports** — View summarized complaint/bin data
+- 👤 **Registered Users**
+- 🧾 **Static Pages**
+  - About Us
+  - Contact Us
+- 🛠️ **Profile**, **Settings**, and **Logout**
+
+---
+
+### 🚛 Driver Portal
+
+- 📊 **Dashboard**
+- 📩 **Assigned Complaints** — View & update
+- 🗑️ **Assigned Garbage Bins**
+- 🔍 **Search**
+- 📈 **Reports**
+- 🛠️ **Profile**, **Settings**, and **Logout**
+
+---
+
+### 👤 User Portal
+
+- 📊 **Dashboard**
+- 📝 **Lodge Complaint**
+- 📜 **Complaint History**
+- 🔍 **Search**
+- 🛠️ **Profile**, **Settings**, and **Logout**
+
+---
+
+## 🧪 Demo Access
+
+Live URL: [https://managemygarbage.rf.gd/gms](https://managemygarbage.rf.gd/gms)
+
+> ⚠️ This is a public demo; use dummy data only.
+
+---
+
+## 📸 Screenshots
+
+> Add these in a `screenshots/` folder in your repo.
+
+- Admin Dashboard  
+  ![Admin](screenshots/admin-dashboard.png)
+
+- Driver Panel  
+  ![Driver](screenshots/driver-dashboard.png)
+
+- User Complaint Page  
+  ![User](screenshots/user-complaint.png)
+
+---
+
+## ⚙️ Tech Stack
+
+- PHP 7.x (Core Backend)
+- MySQL (Database)
+- Bootstrap 5 (Frontend UI)
+- FontAwesome, Themify Icons
+
+---
+
+## 🚀 Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/gms.git
+   cd gms
+
+
 How to run the Garbage Management System (GMS) Project
 
 1. Download the  zip file
@@ -15,11 +108,7 @@ How to run the Garbage Management System (GMS) Project
 7.Run the script http://localhost/gms (frontend)
 
 
-
-Credential for admin panel :
-
-Username: admin
-Password: Test@123
+Test Login Credentials:-
 
 Credential for  driver panel :
 
