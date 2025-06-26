@@ -64,7 +64,7 @@ Live URL: [https://managemygarbage.rf.gd/gms](https://managemygarbage.rf.gd/gms)
 > Add these in a `screenshots/` folder in your repo.
 
 - Admin Dashboard  
-  ![Admin](admin-portal.png)
+  ![Admin](Admin-portal.png)
 
 - Driver Panel  
   ![Driver](screenshots/driver-dashboard.png)
