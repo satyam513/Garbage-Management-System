@@ -1,8 +1,6 @@
 
 # 🚮 Garbage Management System (GMS)
 
-A brief description of what this project does and who it's for
-
 A web-based system for smart management of garbage collection requests across Admin, Driver, and User portals.
 
 [![License](https://img.shields.io/github/license/yourusername/gms)](LICENSE)
@@ -66,14 +64,21 @@ Live URL: [https://managemygarbage.rf.gd/gms](https://managemygarbage.rf.gd/gms)
 
 > Add these in a `screenshots/` folder in your repo.
 
+- Home  
+  ![Admin](https://github.com/satyam513/Garbage-Management-System/blob/main/Home.png?raw=true)
+
 - Admin Dashboard  
-  ![Admin](screenshots/admin-dashboard.png)
+  ![Admin](https://github.com/satyam513/Garbage-Management-System/blob/main/Admin-portal.png?raw=true)
 
 - Driver Panel  
-  ![Driver](screenshots/driver-dashboard.png)
+  ![Driver](https://github.com/satyam513/Garbage-Management-System/blob/main/Driver-Portal.png?raw=true)
 
 - User Complaint Page  
-  ![User](screenshots/user-complaint.png)
+  ![User](https://github.com/satyam513/Garbage-Management-System/blob/main/User-portal.png?raw=true)
+
+
+- Footer  
+  ![Admin](https://github.com/satyam513/Garbage-Management-System/blob/main/Footer.png?raw=true)
 
 ---
 
@@ -81,6 +86,9 @@ Live URL: [https://managemygarbage.rf.gd/gms](https://managemygarbage.rf.gd/gms)
 
 - PHP 7.x (Core Backend)
 - MySQL (Database)
+- Java Script
+- HTML5
+- CSS
 - Bootstrap 5 (Frontend UI)
 - FontAwesome, Themify Icons
 
@@ -90,37 +98,7 @@ Live URL: [https://managemygarbage.rf.gd/gms](https://managemygarbage.rf.gd/gms)
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/gms.git
+   git clone https://github.com/satyam513/Garbage-Management-System.git
    cd gms
 
 
-How to run the Garbage Management System (GMS) Project
-
-1. Download the  zip file
-
-2. Extract the file and copy gms folder
-
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
-
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-5. Create a database with name garbagemsdb
-
-6. Import garbagemsdb.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/gms (frontend)
-
-
-Test Login Credentials:-
-
-Credential for  driver panel :
-
-Username: vams123
-Password: Test@123
-Or Register a new driver.
-
-Credential for  User panel :
-
-Username: Johndoe123
-Password: Test@123
-Or Register a new User.
